@@ -1,0 +1,15 @@
+import './NavBar.css';
+import React from 'react';
+import { Box } from '@mui/material';
+
+const NavBar = () =>{
+    return (
+        <>
+            <Box className="nav" >
+                <h1>NavBar</h1>
+            </Box>
+        </>
+    )
+}
+
+export default NavBar;
