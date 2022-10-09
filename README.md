@@ -2,8 +2,7 @@
 sebuah aplikasi counter sederhana dengan tema sate
 
 # cara memakai
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;install nodejs lts 16.17.1
-clone ke repo ini
-cd ke directori AplikasiSate-react
-jalankan npm install
-jalankan npm start
+Sample code
+&nbsp;&nbsp;&nbsp;&nbsp;5th position in an really ugly code  
+    5th position in a clear an readable code  
+    Again using non-breaking spaces :)
